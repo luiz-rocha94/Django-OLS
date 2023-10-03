@@ -1,2 +1,2 @@
 # Django-OLS
-Django com OpenLiteSpeed
+Django and OpenLiteSpeed
